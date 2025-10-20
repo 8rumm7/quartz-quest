@@ -1,3 +1,8 @@
+---
+draft: true
+noindex: true
+---
+
 # Chronos Cheatsheet
 
 After installing the Chronos Timeline plugin for Obsidian, copy and paste this whole markdown file into a file in your vault to play around and learn the syntax.

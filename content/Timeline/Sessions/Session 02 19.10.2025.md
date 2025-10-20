@@ -1,3 +1,7 @@
+---
+draft: true
+noindex: true
+---
 Ereignisse:
 - [[Flucht aus dem Heerlager]]
 - [[Die Durchquerung des Canyons]]

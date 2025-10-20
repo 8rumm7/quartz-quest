@@ -1,3 +1,8 @@
+---
+draft: true
+noindex: true
+---
+
 Ereignisse:
 - [[Krieg zwischen Howard und Shal’Khazir]]
 - [[Schlacht von Drakkon]]
