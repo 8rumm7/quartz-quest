@@ -1,4 +1,4 @@
-![[Ostelion_v1.png]]
+![[Ostelion_v1_low.png]]
 
 blalbalblalrwl,brl,brl
 
