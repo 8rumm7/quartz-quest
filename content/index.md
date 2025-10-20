@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 # Welt
 - [[Kyrathis - Ostelion]]
 # Sessions
