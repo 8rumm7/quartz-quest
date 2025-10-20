@@ -18,7 +18,7 @@ Schlüsselmomente:
 - die Schlacht verlief nicht so gut wie durch die Informationen von B erhofft
 
 Nach der siegreichen Schlacht:
-- [[B]] vor den König zitiert
+- [[B]] vor den [[König Maris IV|König]] zitiert
 - wurde zum Tode durch den Strick aufgrund angeblichen Hochverrats (falsche Informationen) verurteilt
 - [[Torgael Gorrn|Torgael]] vor den König zitiert
 - wurde zum Tode durch den Strick aufgrund angeblichen Hochverrats (Angriff auf den König) verurteilt
