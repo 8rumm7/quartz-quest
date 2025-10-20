@@ -1,6 +1,7 @@
+---
+draft: "true"
+---
 ![[Ostelion_v1_low.png]]
-
-blalbalblalrwl,brl,brl
 
 **Ostelion** ist ein Kontinent der Welt **Kyrathis**. Er wird im Norden vom religiös geprägten Staat **Howard** und im Süden vom nomadisch organisierten **Shal’Khazir** bestimmt. Zwischen beiden erhebt sich das nahezu unpassierbare **Korvaldrin‑Gebirge** (howardisch: _Letzte Schwelle_; shal’khazirisch: _Zhal‑Maraq_ – „Reisendenpfad“, ironisch), dessen wenige Übergänge strategische und wirtschaftliche Schlüsselrollen einnehmen.
 
