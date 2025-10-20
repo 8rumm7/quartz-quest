@@ -1,6 +1,6 @@
 ---
-draft: true
-noindex: true
+draft: false
+noindex: false
 ---
 ![[Ostelion_v1_low.png]]
 
