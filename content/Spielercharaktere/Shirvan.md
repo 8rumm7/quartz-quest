@@ -6,3 +6,4 @@ aliases:
 ---
 
 ![[Vorgeschichte Shirvan pt1]]
+![[Vorgeschichte Shirvan pt2]]
