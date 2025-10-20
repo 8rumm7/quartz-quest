@@ -1,0 +1,22 @@
+---
+Datum: 0000-01-03T12:00:00
+---
+- Ankunft in **Gibra** – Schild: _„Willkommen in Gibra – Einwohner 43“_ (mit Schreibfehlern).    
+- Dorf besteht nur aus einer Hauptstraße mit wenigen Häusern.    
+- Erste Station: **Taverne**    
+    - Niemand öffnet → sie treten ein.        
+    - Fässer: abgestandenes, stinkendes Wasser; Whisky & Wein.        
+    - **B** findet Kochstelle → sie kochen Wasser ab.        
+    - Brunnen im Garten ist ausgetrocknet.        
+    - Alle Lebensmittel verdorben → Dorf scheint verlassen.        
+- Nächste Station: **Schmiede**    
+    - Alle nehmen sich einen Schmiedehammer.        
+- Weitere Häuser: **Wohngebäude**    
+    - Neue Kleidung gefunden.        
+    - **Torgael**: Goldkette        
+    - **B**: verzierter Gehstock        
+    - **Shirvan**: Monokel        
+    - Alte Kleidung wird im Hof verbrannt.        
+- Beim Verlassen des Dorfs nach Osten:    
+    - In der Ferne sichtbar → **Turm mit Metallstäben** und **Felsen mit Hütten**.        
+    - Entscheidung: Zuerst den **Turm** aufsuchen.

@@ -1,0 +1,4 @@
+---
+Datum: "- 0002-03-23"
+---
+Torgael ist ein Ranger mit sicherer Hand am Bogen und einem leichten Schritt, der im Wald kaum Spuren hinterlässt. Als geübter Jäger liest er Fährten, bewegt sich lautlos durch Unterholz und findet auch in rauer Wildnis den richtigen Pfad. Wenn es ruhiger wird, holt er seine Drehleier hervor – ein Musiker, der Lagerfeuer zum Klingen bringt. Aufgewachsen in der Taverne seiner Eltern – Vater ein Ork, Mutter eine Elfin – kennt Torgael rauen Humor ebenso wie feine Sitten. Er liebt Wortspiele und kleine Streiche, lockert Spannungen mit Witzen und trifft selbst dann noch, wenn andere vor Lachen kaum zielen können.

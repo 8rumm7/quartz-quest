@@ -1,0 +1,13 @@
+---
+Datum: 0000-01-02T18:00:00
+---
+- Die Gruppe entscheidet, den Canyon zu durchqueren – hinab, durch, dann wieder hinauf.    
+- **Torgael** verletzt sich beim Abstieg an den Händen.    
+- **B** befestigt mit _Feather Hook_ ein Seil oben am Canyon.    
+- Torgael scheitert beim Aufstieg, **B** klettert in eine Höhle, **Shirvan** folgt.    
+- Torgael stürzt erneut, verletzt sich am Knöchel, wird in die Höhle gezogen, Seil schneidet in den Bauch → Rast über Nacht.    
+- Am nächsten Morgen versucht **B** erneut den Aufstieg, rutscht ab, fällt auf den Grund, schafft es danach doch nach oben.    
+- **Shirvan** folgt erfolgreich, **Torgael** stürzt beim Versuch erneut und verletzt sich wieder am Knöchel.    
+- Torgael folgt daraufhin dem Canyonverlauf, während die anderen oben entlanggehen.    
+- Am Canyonende treffen sich alle wieder, Torgael schafft den Aufstieg.    
+- In der Ferne sehen sie schließlich das Dorf **Gibra**.
